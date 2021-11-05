@@ -1,0 +1,44 @@
+/*stylists*/
+#stylist{
+	position: absolute;
+	width: 464px;
+	height: 101px;
+	left: 482px;
+	top: 4px;
+	margin: 0px;
+}
+
+.stylist{
+	position: absolute;
+	width: 1184px;
+	height: 745px;
+	left: 138px;
+	top: 197px;
+	text-align: center;
+}
+.stylist p{
+	color: #3D180B;
+	text-align: justify;
+}
+
+#melissa{
+	position: absolute;
+	width: 334px;
+	height: 755px;
+	left: 0px;
+	top: 0px;
+}
+#lila{
+	position: absolute;
+	width: 341px;
+	height: 739px;
+	right: 414px;
+	top: 0px;
+}
+#brune{
+	position: absolute;
+	width: 341px;
+	height: 739px;
+	right:0px;
+	top: 0px;
+}

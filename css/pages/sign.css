@@ -1,0 +1,10 @@
+/*sign in/up*/ 
+.sign{
+	margin: 30px auto; 
+}
+.imagesign{
+	background-image: url(../../images/signin.png);
+	background-repeat: no-repeat;
+	background-color: rgba(240, 223, 224, 0.5);
+	background-blend-mode: lighten;
+}

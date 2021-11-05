@@ -1,0 +1,28 @@
+.center{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 400px;
+	margin: 6px 430px;
+}
+
+@media(max-width: 960px){
+	.center{
+		margin: 6px 260px;
+	}
+}
+@media(max-width: 880px){
+	.center{
+		margin: 6px 200px;
+	}
+}
+@media (max-width: 720px){
+	.center{
+		margin: 6px 160px;
+	}
+}
+@media (max-width: 540px){
+	.center{
+		margin: 6px 60px;
+	}
+}

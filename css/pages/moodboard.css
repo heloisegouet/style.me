@@ -1,0 +1,106 @@
+
+/*moodboard page*/
+
+
+.weekly-moodboard {
+	position: absolute;
+	width: 1000px;
+	height: 10px;
+	left: 300px;
+	top: -100px;
+	margin-bottom: 0px;
+}
+
+.theme1 {
+	position: absolute;
+    width: 700px;
+    height: 16px;
+    left: 400px;
+    top: 915px;
+}
+
+.theme2 {
+	position: absolute;
+    width: 700px;
+    height: 16px;
+    left: 450px;
+    top: 1811px;
+}
+
+.moodboard {
+	position: absolute;
+	width: 1322px;
+	height: 674px;
+	left: 59px;
+	top: 197px;
+}
+.moodboard2 {
+	position: absolute;
+	width: 1322px;
+	height: 674px;
+	left: 59px;
+	top: 1093px;
+}
+
+.image1{
+	
+	position: absolute;
+	width: 198px;
+	height: 262px;
+	left: 0px;
+	top: 0px;
+}
+
+.image2 {
+    position: absolute;
+    width: 200px;
+    height: 262px;
+    left: 244px;
+    top: 0px;
+}
+
+.image3 {
+	position: absolute;
+	width: 200px;
+	height: 292px;
+	left: 490px;
+	top: 0px;
+}
+
+.image4 {
+	position: absolute;
+	width: 330.85px;
+	height: 293.84px;
+	left: 817px;
+	top: 0px;
+}
+
+.image5 { 
+	position: absolute;
+	width: 164px;
+	height: 673px;
+	right: 0px;
+	top: 0px;
+}
+
+.image6{
+	position: absolute;
+	width: 298.85px;
+	height: 295.14px;
+	left: 817px;
+	bottom: 0px;
+}
+.image7{
+	position: absolute;
+	width: 292px;
+	height: 430px;
+	left: 490px;
+	bottom: 0px;
+}
+.image8{
+	position: absolute;
+	width: 369.49px;
+	height: 370.65px;
+	left: 0px;
+	bottom: 0px;
+}

@@ -1,0 +1,91 @@
+/*aboutus*/
+
+.aboutus {
+	position: absolute;
+	width: 1319px;
+	height: 248px;
+	left: 25px;
+	top: 4px;
+}
+
+#about-us {
+	position: absolute;
+	width: 464px;
+	height: 101px;
+	left: 536px;
+	top: 4px;
+	margin: 0px;
+}
+
+.aboutus a{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 30px;
+	color: #D3C25F;
+	text-decoration: none;
+	font-weight: 400;
+}
+.aboutus a:hover{
+	color: #3D180B;
+}
+
+
+#Hermance {
+	position: absolute;
+	width: 278px;
+	height: 249px;
+	left: 86px;
+	top: 304px;
+}
+
+#Héloise {
+	position: absolute;
+	width: 278px;
+	height: 249px;
+	left: 433px;
+	top: 300px;
+}
+
+#Marie {
+	position: absolute;
+	width: 230px;
+	height: 248px;
+	left: 779px;
+	top: 304px;
+
+}
+
+#Noemie {
+	position: absolute;
+	width: 244px;
+	height: 248px;
+	left: 1115px;
+	top: 304px;
+}
+
+#our {
+	position: absolute;
+	width: 176.02px;
+	height: 81.42px;
+	left: 345px;
+	top: 600.4px;
+}
+
+#team {
+	position: absolute;
+	width: 176.02px;
+	height: 81.42px;
+	left: 921px;
+	top: 600.4px;
+}
+
+#Clueless {
+	position: absolute;
+	width: 366px;
+	height: 157px;
+	left: 538px;
+	top: 694px;
+}
+
+
+

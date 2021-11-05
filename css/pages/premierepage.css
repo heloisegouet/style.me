@@ -1,0 +1,132 @@
+/*première page*/
+
+.firstimage{
+	background-image: url(../../images/girls.png);
+	background-repeat: no-repeat;
+}
+
+.our-mission{
+	position: absolute;
+	right:610px;
+	top: 777px;
+}
+
+.sign-firstpage{
+	position: absolute;
+	width: 259px;
+	height: 958px;
+	right:20px;
+	top: 0px;
+}
+.sign-firstpage a{
+	margin: 20px;
+
+}
+.styleme{
+	position: relative;
+	width: 943px;
+	height: 958px;
+	left: 248px;
+	top: 0px;
+}
+.styleme h3{
+	position: absolute;
+	width: 564px;
+	height: 16px;
+	right: 200px;
+	top: 366px;
+}
+
+.styleme h1{
+	position: absolute;
+	width: 564px;
+	height: 16px;
+	right: 200px;
+	top: 170px;
+}
+#concept{
+	position: absolute;
+	width: 512px;
+	height: 75px;
+	left: 108px;
+	top: 897px;
+	margin: 0px auto;
+}
+#step1{	
+	position: absolute;
+	width: 623px;
+	height: 64px;
+	left: 41px;
+	color: #3D180B;
+	margin: 47px auto;
+}
+#card-pink1{
+	background-color: #BF9B9C;
+	position: absolute;
+	width: 720px;
+	height: 255.5px;
+	left: 0px;
+	top: 1171px;
+}
+
+#step2{
+	position: absolute;
+	width: 626px;
+	height: 87px;
+	left: 44px;
+	top: 1447px;
+	color: #3D180B;
+}
+
+#step3{
+	color: #3D180B;
+	position: absolute;
+	width: 626px;
+	height: 87px;
+	left: 39px;
+	margin: 47px auto;
+}
+#card-pink3{
+	background-color: #BF9B9C;
+	position: absolute;
+	width: 720px;
+	height: 260px;
+	left: 0px;
+	top: 1699px;
+}
+
+#blondegirl{
+	position: absolute;
+	width: 720px;
+	height: 1025px;
+	left: 720px;
+	top: 934px;
+}
+#maskgirls{
+	position: absolute;
+	width: 720px;
+	height: 1023px;
+	left: 0px;
+	top: 1959px;
+}
+#mission{
+	position: absolute;
+	width: 577px;
+	height: 75px;
+	left: 800px;
+	top: 1900px;
+	
+}
+#text-mission{
+	position: absolute;
+	width: 587px;
+	height: 198px;
+	left: 790px;
+	top: 2176px;
+	color: #3D180B;
+	padding: 30px;
+	text-align: justify;
+}
+#text-mission p{
+	margin: 50px auto;
+}
